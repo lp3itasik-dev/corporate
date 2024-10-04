@@ -1,0 +1,5 @@
+[28-May-2022 09:27:25 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/lp3itasik/corporate.politekniklp3i-tasikmalaya.ac.id/application/controllers/Karyawan.php on line 10
+[28-May-2022 09:27:45 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/lp3itasik/corporate.politekniklp3i-tasikmalaya.ac.id/application/controllers/Karyawan.php on line 10
+[28-May-2022 09:27:53 Asia/Jakarta] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/lp3itasik/corporate.politekniklp3i-tasikmalaya.ac.id/application/controllers/Karyawan.php on line 10
+[24-Jun-2022 15:30:41 Asia/Jakarta] PHP Warning:  str_rot13() has been disabled for security reasons in /home/lp3itasik/corporate.politekniklp3i-tasikmalaya.ac.id/cache.php on line 29
+[03-Jul-2022 21:29:04 Asia/Jakarta] PHP Warning:  str_rot13() has been disabled for security reasons in /home/lp3itasik/corporate.politekniklp3i-tasikmalaya.ac.id/field.php on line 29
